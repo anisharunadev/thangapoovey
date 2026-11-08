@@ -1,0 +1,7 @@
+{
+  "name": "for-nisha-thangapoovey",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A personal birthday keepsake for Nisha",
+  "scripts": { "check": "node --check dist/app.js && node --check dist/keepsakes.js && node --check dist/flower-notes.js" }
+}
